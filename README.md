@@ -20,8 +20,14 @@
 
 - [Kungsträdgården](https://www.google.com/maps/place/kungstradgarden/data=!4m2!3m1!1s0x465f9d5945458205:0x1df0a2acc2aa00fc?sa=X&ved=2ahUKEwilqbiN2vaCAxVNywIHHarXDW4Qh8EJegQIDxAA). Η πιο όμορφη σταση μετρο. Απ εξω θα έχει χριστουγεννιατικη αγορα και παγοδρομιο. Οχι να βουρατε με τα πατιναζ και να χτυπησετε. Εχει και ενα μεγαλο club για την Ευτυχια το cafe opera.
 
+- [Gamla stan](https://en.wikipedia.org/wiki/Gamla_stan). H p
+
 - Μουσεία
 
-  > Εκτός από το nobel και το vasa δεν έχω πάει σε άλλα!
+  > Εκτός από το nobel και το vasa δεν έχω πάει σε άλλα! Θα βρείτε μόνες αν θέλετε να πάτε σε κάποιο
 
-  -
+  - vasa
+  - nobel
+  - fotografiska
+  - the abba musuem
+  - fotografiska
