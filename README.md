@@ -1,33 +1,30 @@
-## Μετακίνηση / Αεροδρόμιο
+# Γενικό Πλάνο
 
-- Από αεροδρόμιο προς κέντρο
-
-  - Ταξί απο Αρλάντα γύρω στις 800 SEK
-  - Arland Express, γρήγορο τρένο που πηγαίνει Τ-Centralen και μετά πρέπει να πάρετε αλλό μετρό για το hotel σας. 320 SEK \* 3 = 960 για 3 κορούες.
-  - Flixbus λεοφωρείο που κάνει διάφορες στάσεις μέσα στην πόλη
-  - Public Transport, Λεοφωρείο 579 η 583 από Αrlanda μέχρι Märsta, μετά SJ μέχρι T-Centralen και μετα μετρο
-
-- Μετρό (Τ-Bana) / Προαστιάκος (SJ) - Bus
-  - Αγοράστε μια SL Kort για 72 ώρες από ένα Seven / Eleven (7/11). Κάνει για όλα
-  - Στα λεοφωρεία επιβιβαση **μόνο** από την μπροστινή πόρτα και χτυπατε την κάρτα στο μήχανημα οπως κανει ο μπροστινος σας!
-  - Το μετρό παρασκευη και σαββατο ειναι 24ωρο. Θα δειτε πολλους μεθυσμενους αργα το βραδυ αλλα εν και πειραζουν. Εχει και πολλη αστυνομια.
-  - [sl.se](https://sl.se/) το σουηδικο t-l. Έχει και [εφαρμογη](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter&hl=en_US)
-  - Έχει 3 γραμμες πρασινη, κοκκινη και μπλε. Να προσεχετε ομως γιατι η κοκκινη και η πρασινη εχουν branches που καταληγουν σε διαφορετικους τερματικους. Στο T-Centralen περνανε ολες.
-
-## Αξιοθέατα
-
-- Πρέπει **σιγουρα** να πάτε στο Skansen [1](https://skansen.se/en/see-and-do/open-air-museum/), [2](https://www.google.com/maps/place/Skansen/@59.3270737,18.0988895,16.04z/data=!4m23!1m16!4m15!1m6!1m2!1s0x465f82aafeda9437:0x2c35b6cfd6468531!2zU2thbnNlbiwgRGp1cmfDpXJkc3Nsw6R0dGVuLCBTdG9ja2hvbG0sIM6jzr_Phc63zrTOr86x!2m2!1d18.1058582!2d59.3263227!1m6!1m2!1s0x465f83e1c2870c89:0xc15fae07c99e4c05!2zS2FrbsOkc3Rvcm5ldCwgTcO2cmthIEtyb2tlbiAyOC0zMCwgMTE1IDI3IFN0b2NraG9sbSwgzqPOv8-FzrfOtM6vzrE!2m2!1d18.1268899!2d59.3349746!3e2!3m5!1s0x465f82aafeda9437:0x2c35b6cfd6468531!8m2!3d59.3263227!4d18.1058582!16zL20vMDM3d3Z3?hl=el&entry=ttu), [3](https://www.youtube.com/watch?v=-zXthEkNDQI). Είναι μεγαλο θεματικο παρκο. Μπορειτε να το συνδυασετε με επισκεψη στο [vasa musuem](https://www.google.com/maps/place/%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF+B%CE%AC%CF%83%CE%B1/@59.3278181,18.0901547,16.04z/data=!4m23!1m16!4m15!1m6!1m2!1s0x465f82aafeda9437:0x2c35b6cfd6468531!2zU2thbnNlbiwgRGp1cmfDpXJkc3Nsw6R0dGVuLCBTdG9ja2hvbG0sIM6jzr_Phc63zrTOr86x!2m2!1d18.1058582!2d59.3263227!1m6!1m2!1s0x465f83e1c2870c89:0xc15fae07c99e4c05!2zS2FrbsOkc3Rvcm5ldCwgTcO2cmthIEtyb2tlbiAyOC0zMCwgMTE1IDI3IFN0b2NraG9sbSwgzqPOv8-FzrfOtM6vzrE!2m2!1d18.1268899!2d59.3349746!3e2!3m5!1s0x465f9d546d8329af:0xcff09af1b4c13241!8m2!3d59.3280233!4d18.0913964!16zL20vMDNmbHhk?hl=el&entry=ttu) στο [Kaknästornet](https://royaldjurgarden.se/en/attractions/kaknastonet/), ψηλος πυργος με 75 SEK εισητηριο για να ανεβεις στο καφε και να δεις τη θεα και στο [Djurgården](https://royaldjurgarden.se/en/do/) αν αντέχετε το κρύο.
-
-- [Kungsträdgården](https://www.google.com/maps/place/kungstradgarden/data=!4m2!3m1!1s0x465f9d5945458205:0x1df0a2acc2aa00fc?sa=X&ved=2ahUKEwilqbiN2vaCAxVNywIHHarXDW4Qh8EJegQIDxAA). Η πιο όμορφη σταση μετρο. Απ εξω θα έχει χριστουγεννιατικη αγορα και παγοδρομιο. Οχι να βουρατε με τα πατιναζ και να χτυπησετε. Εχει και ενα μεγαλο club για την Ευτυχια το cafe opera.
-
-- [Gamla stan](https://en.wikipedia.org/wiki/Gamla_stan). H p
-
-- Μουσεία
-
-  > Εκτός από το nobel και το vasa δεν έχω πάει σε άλλα! Θα βρείτε μόνες αν θέλετε να πάτε σε κάποιο
-
-  - vasa
-  - nobel
-  - fotografiska
-  - the abba musuem
-  - fotografiska
+1. Άφιξη Γενεύη Παρασκευή απόγευμα
+   - Αναχώρηση για Λωζάννη με τρένο [(17:18, 17:32, 17:48, 18:01)](https://www.sbb.ch/fr?date=%222024-02-09%22&moment=%22DEPARTURE%22&p_cursor=%223%257COF%257CMT%25C2%25B514%25C2%25B591758%25C2%25B591758%25C2%25B591816%25C2%25B591816%25C2%25B50%25C2%25B50%25C2%25B54%25C2%25B591842%25C2%25B5-1%25C2%25B591770%25C2%25B54114%25C2%25B50%25C2%25B50%25C2%25B50%25C2%25B51%25C2%25B51%257CPDH%25C2%25B51b517fd05d8888fcae8d4e5eef19f1b3%257CRD%25C2%25B59022024%257CRT%25C2%25B5173000%257CUS%25C2%25B50%257CRS%25C2%25B5INIT%22&stops=%5B%7B%22value%22%3A%228501026%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Gen%C3%A8ve-A%C3%A9roport%22%7D%2C%7B%22value%22%3A%228592050%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Lausanne%2C%20gare%22%7D%5D&time=%2217%3A30%22) αναλόγως τι ώρα θα πάρετε τις βαλίτσες σας. Το τρένο κάνει 50 λεπτά περίπου για το σταθμό και μετά αλλά 20 για το σπίτι.
+   - Κόστος τρένου 29 φράγκα το άτομο.
+   - Εναλλακτικά μπορούμε να αγοράσουμε μειώμενο εισητήριο (~20 φράγκα), αλλά αυτό ισχύει μόνο για το 1 συγκεκρειμέμο δρομολόγιο και πρέπει να το κλείσουμε νωρίτερα. Έτσι αν η πτήση έχει μικρή καθυστέρηση η αργησετε με τις βαλίτσες μπορεί να το χάσετε και δεν σας επιστρέφουν τα χρήματα.
+   - Το αργότερο που θα είμαστε σπίτι θα είναι 19:00. Παρφουμαριζόμαστε και βγαίνουμε για μπύρα / φαγητό. Οι κουζίνες κλείνουν στις 10 το βράδυ σε ολά τα μπαρ και σε ολά τα restaurant. Αν θέλτε μπορώ να κλείσω κάπου για burger και μπύρα ή να πάμε για πίτσα.
+   - Η νύχτα μπορεί να είναι λίγο πιο μεγάλη και να παρτάρουμε με μέτρο γιατί το Σάββατο θα πάμε εκδρομή
+2. Σάββατο
+   - Πρωινο ξύπνημα, καφές πρωινο στο σπιτι, αρματωνόμαστε και παίρνουμε τα βουνά
+   - Έλεγα να ανέβουμε στο [glacier 3000](https://www.glacier3000.ch/en)
+   - Κόστος με το [τρένο](https://www.sbb.ch/fr/acheter/pages/fahrplan/fahrplan.xhtml) aller-retour 28.80 \* 2 = 56.60 Φράγκα.
+   - Μετά για να πάρουμε το τελεφερικ, να ανέβουμε στη γέφυρα κλπ το κόστος είναι 85 Φράγκα. Μπορείτε να δείτε [εδώ](https://www.glacier3000.shop/en/forfait-ski/1-aller-retour-local-eigen-gst-g-2389/?s=2024-02-10&sk%5B0%5D%5Bage%5D=41&dp=0) τι δραστηριότητες περιλαμβάνει το εισητήριο
+   - Έχει εστιατόρια να φάμε για μεσημέρι αλλά επειδή θα είναι Σάββατο φαντάζομαι θα γίνεται χαμός
+   - Διαφορετικά μπορώ να ψάξω να βρω ένα εύκολο hike στα χιόνια εκέι κόντα στο [Diablerets](https://maps.app.goo.gl/Jd22fNGqK4xCwJG66) ή στο [Villars](https://www.google.com/maps/place/Villars-sur-Ollon,+1884+Ollon/@46.2984261,7.034371,14z/data=!3m1!4b1!4m6!3m5!1s0x478e958a11525441:0x4eec608c1791361e!8m2!3d46.2984285!4d7.0550134!16zL20vMGMzaGQ3?entry=ttu) ή στο [Leysin](https://www.google.com/maps/place/1854+Leysin/@46.3528503,6.861335,12z/data=!3m1!4b1!4m6!3m5!1s0x478e9662071657b9:0xa213a5cac5a8b16b!8m2!3d46.3435634!4d7.012033!16zL20vMDJtbHR6?entry=ttu) η πολυ πιο κοντα στη Λωζανη στο [Mont-Pélerin](https://www.google.com/maps/place/Le+Mont-P%C3%A9lerin,+1801+%CE%A3%CE%B1%CF%81%CE%BD%CF%84%CF%8C%CE%BD/@46.4822766,6.8106816,14z/data=!3m1!4b1!4m6!3m5!1s0x478e82dc1680b927:0xeed45c5457c5f1d3!8m2!3d46.482279!4d6.831324!16s%2Fg%2F11fzd1k5mq?entry=ttu)
+   - Επιστροφή το απόγευμα/ βράδυ στο σπίτι και πράτουμε αναλόγως με τις ορέξεις μας.
+3. Κυριακή
+   - Πρωινο ξύπνημα και πρωινό στο σπίτι η brunch καπου έξω.
+   - Επίσκεψη στο [εργοστάσιο σοκολάτας](https://cailler.ch/en/cailler-experiences). Κάνουμε το tour στο μουσείο καθόμαστε εκεί για καφέ και μετά αναχωρούμε. Κόστος [τρένου](https://www.sbb.ch/fr?date=%222024-02-11%22&moment=%22DEPARTURE%22&selected_trip=0&stops=%5B%7B%22value%22%3A%228592050%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Lausanne%2C%20gare%22%7D%2C%7B%22value%22%3A%228504089%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Broc-Chocolaterie%22%7D%5D&time=%2210%3A00%22) 25 Φράγκα, είσοδος στο μουσείο 14 Φράγκα
+   - Ανάχωρηση και επίσκεψη στη Γραβιέρα [Gruyères](https://www.google.com/maps/place/%CE%93%CE%BA%CF%81%CF%85%CE%B3%CE%B9%CE%AD%CF%81/@46.5722128,6.9892711,12z/data=!3m1!4b1!4m6!3m5!1s0x478e898f3d33e341:0x3dd11b979020ba92!8m2!3d46.5777555!4d7.0624775!16zL20vMDk2bXY?entry=ttu), βόλτα στο χωρίο και fondue σε ένα εστιατόριο.
+4. Δευτέρα / Τρίτη Παραμονή στη Λωζάνη
+   - Βόλτα στη Λίμνη
+   - Επίσκεψη στο [Ολυμπιακό Μουσείο](https://www.google.com/maps/place/%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@46.5087324,6.6315076,17z/data=!3m1!4b1!4m6!3m5!1s0x478c2fc8976b645d:0x2851087c97373a28!8m2!3d46.5087324!4d6.6340879!16zL20vMDNobmN0?entry=ttu)
+   - Προσκύνημα στην προτομή του [Ιώαννη Καπόδίστρια](https://www.google.com/maps/place/Statue+of+Ioannis+Kapodistrias/@46.5060407,6.6240132,17z/data=!3m1!4b1!4m6!3m5!1s0x478c2fb9ff152829:0x653522f063b3e412!8m2!3d46.5060407!4d6.6265935!16s%2Fg%2F11ndykr_2g?entry=ttu)
+   - Βόλτα στην πάλια πόλη και έπισκεψη στον [καθεδρικό ναό](https://www.cathedrale-lausanne.ch/accueil/) και στον [Άγιο Φραγκίσκο](https://www.sainf.ch/)
+   - Επίσκεψη στο μουσείο [art brut](https://www.artbrut.ch/)
+   - Επίσκεψη στο [ενυδρείο](https://www.aquatis.ch/)
+   - Επίσκεψη στο πολυτεχνείο και στη βιβλιοθήκη Rolex.
+   - Bόλτα ίσως στα κοντινά χωριά Montreux, Vevey η Morges.
+   - Γενικά τη Δευτερά το βράδυ τα πιο πολλά εστιατόρια και μπαρ είναι κλειστά. Μπορούμε να κλείσουμε στο Ιταλικό κατώ απο το σπίτι μου την Τρίτη ([Ristorante St Paul](https://www.ristorante-st-paul.ch/)) να φρεσκάρει η Νικολέτα τα Ιταλικά της, η να παμέ για πίτσα στη [Luigia](https://www.luigia.ch/en/restaurant/louisiana-lausanne/).
