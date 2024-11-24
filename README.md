@@ -17,4 +17,4 @@
 
 ## Airbnb
 
-- ![Airbnb τριγύρω](airbnb.png "Airbnb")
+![Airbnb τριγύρω](airbnb.png "Airbnb")
