@@ -1,10 +1,9 @@
 # Διαμονή
 
+
 ---
-
-1. [Airbnb 1](https://www.google.com/maps/place/6+Rue+des+Corroyeurs,+67200+Strasbourg,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@48.5726132,7.7247836,17z/data=!3m1!4b1!4m6!3m5!1s0x4796c9c8e090fcc1:0x6115035f848d8d59!8m2!3d48.5726132!4d7.7273639!16s%2Fg%2F11csj814yq?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+1. [Airbnb 1](https://fr.airbnb.ch/rooms/1009385818492714763?source_impression_id=p3_1732522799_P33xdYJl9W_O3Lzs), [Location](https://www.google.com/maps/place/6+Rue+des+Corroyeurs,+67200+Strasbourg,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@48.5726132,7.7247836,17z/data=!3m1!4b1!4m6!3m5!1s0x4796c9c8e090fcc1:0x6115035f848d8d59!8m2!3d48.5726132!4d7.7273639!16s%2Fg%2F11csj814yq?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
 2. [Petite-France](https://www.google.com/maps/place/Petite-France,+67000+%CE%A3%CF%84%CF%81%CE%B1%CF%83%CE%B2%CE%BF%CF%8D%CF%81%CE%B3%CE%BF,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@48.5806914,7.7387215,17z/data=!3m1!4b1!4m6!3m5!1s0x4796c84d2c91809d:0x4c4ea65d7eec2f69!8m2!3d48.5811142!4d7.7415109!16zL20vMDMzNzBw?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D) Εκεί που θα κινηθούμε την Παρασκευή και το Σάββατο, αξιοθέατα, ψώνια, φαγητό και Χριστουγεννιάτικες αγορές.
-
 ---
 
 ## Booking
